@@ -1,0 +1,5 @@
+*.ipynb linguist-language=Python
+*.csv linguist-documentation
+*.pdf linguist-documentation
+*.py linguist-language=ignore
+*.ipynb linguist-language=ignore
