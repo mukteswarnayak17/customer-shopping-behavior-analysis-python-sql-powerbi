@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
----
+
 
 ## 📌 1. Project Overview
 
@@ -8,7 +8,7 @@ This project focuses on analyzing customer shopping behavior to uncover meaningf
 
 The goal is to understand customer purchasing patterns, product performance, and revenue trends, and present them visually through an intuitive dashboard.
 
----
+
 
 ## 🛠️ 2. Tools and Technologies
 
@@ -16,9 +16,7 @@ The goal is to understand customer purchasing patterns, product performance, and
 * 📊 **Pandas** – Handling missing values, transformations, and feature engineering
 * 🗄️ **MySQL** – Data storage and advanced querying
 * 📈 **Power BI** – Dashboard creation and data visualization
-* 💻 **SQL** – Business-driven analysis queries
 
----
 
 ## 🔄 3. Project Steps
 
@@ -54,7 +52,7 @@ Performed business-focused analysis such as:
 * Added filters for Gender, Category, Payment Type, Season
 * Created KPIs like Revenue, Average Order Value, Satisfaction Score
 
----
+
 
 ## 📁 4. Project Structure
 
@@ -69,7 +67,7 @@ Performed business-focused analysis such as:
 └── 📄 README.md                        # Project documentation
 ```
 
----
+
 
 ## 📊 5. Results & Insights
 
@@ -89,7 +87,7 @@ Performed business-focused analysis such as:
 * Optimize inventory
 * Enhance customer retention strategies
 
----
+
 
 ## 🚀 6. Future Enhancements
 
@@ -99,13 +97,13 @@ Performed business-focused analysis such as:
 * 🧠 Integrate **machine learning models** for customer segmentation
 * 📊 Add more advanced KPIs (LTV, CAC, retention rate)
 
----
+
 
 ## 📜 7. License
 
 This project is licensed under the **MIT License** – feel free to use and modify for your own projects.
 
----
+
 
 ## 🙌 8. Acknowledgements
 
@@ -114,6 +112,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 * 🗄️ MySQL for efficient querying
 * 📊 Power BI for powerful visualization capabilities
 
----
+
 
 💡 *If you like this project, feel free to ⭐ the repository and share your feedback!*
